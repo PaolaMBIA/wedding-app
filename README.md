@@ -1,2 +1,2 @@
 # wedding-app
-site de géneration de template de mariage
+site de géneration de template de mariage by A&P
